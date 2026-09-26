@@ -1,0 +1,23 @@
+node_modules/
+.env
+.env.local
+dist/
+package-lock.json
+
+# Backend specific
+backend/dist/
+backend/.env
+backend/node_modules/
+
+# Logs
+*.log
+backend.log
+frontend.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

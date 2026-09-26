@@ -1,0 +1,7 @@
+{
+  "name": "Story Arc Engine",
+  "description": "An application that transforms children's drawing descriptions and parental lessons into a complete animation production plan. It also allows users to interact with the created character through chat and voice calls.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
